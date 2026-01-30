@@ -1,6 +1,9 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import Problems from "../components/Problems"
+import Solutions from "../components/Solutions";
+import BenefitsCTA from "../components/BenefitsCTA";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -9,6 +12,9 @@ const Home = () => {
       <Navbar />
       <Hero />
       <Problems />
+      <Solutions />
+      <BenefitsCTA />
+      <Footer />
 
     </div>
   );

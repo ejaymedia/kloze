@@ -10,7 +10,7 @@ const Problems = () => {
     <section className="w-full bg-[#0b0b0f] border-t border-gray-800 overflow-x-hidden">
 
       {/* Wrapper */}
-      <div className="max-w-7xl mx-auto px-4 pt-20 sm:pt-24 pb-24 sm:pb-28">
+      <div className="max-w-7xl mx-auto px-4 pt-20 sm:pt-24 pb-12 sm:pb-14">
 
         {/* Label */}
         <div className="flex justify-center mb-4">
