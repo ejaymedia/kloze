@@ -169,7 +169,7 @@ const Problems = () => {
           className="text-center text-gray-400 text-[12px] sm:text-sm max-w-2xl mx-auto leading-relaxed mb-12 sm:mb-16"
         >
 
-          "Thank you for your trust in Kloze! We are grateful for your feedback and are committed to providing the best [products/services offered]. Read what our clients have to say about their experience with us."
+          When employees leave, their access to company data and sensitive information can create hidden risks. Kloze ensures critical knowledge and assets stay protected, keeping your business secure
 
         </motion.p>
 
